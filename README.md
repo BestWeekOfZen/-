@@ -33,24 +33,24 @@
   
  ## 小程序 代码结构与基本配置 
   
-   app.js 
-   app.json
-   app.wxss
-   project.config.json
-   pages
-   utils
-   
-   window:
-   navigationBarBackgroundColor
-   navigationBarTextStyle
-   navigationBarTitleText
-   backgroundColor
-   backgroundTextStyle
-   onReachBottomDistance
-   enablePullDownRefresh 
-   
-   app: Pages  tabBar newworkTimeout  debug navigationStyle  
-   page: disableScroll
+     app.js 
+     app.json
+     app.wxss
+     project.config.json
+     pages
+     utils
+
+     window:
+     navigationBarBackgroundColor
+     navigationBarTextStyle
+     navigationBarTitleText
+     backgroundColor
+     backgroundTextStyle
+     onReachBottomDistance
+     enablePullDownRefresh 
+
+     app: Pages  tabBar newworkTimeout  debug navigationStyle  
+     page: disableScroll
    
  ## 微信小程序开发框架 
   ### WXML 是框架设计的一套标签语言，结合组件、wxs和事件系统，可以构建出页面的结构 
